@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Phạm Văn Quy test
+          Learn React Phạm Văn Quy test 2
         </a>
       </header>
     </div>
